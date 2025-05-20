@@ -5,7 +5,7 @@ Tools: Python, Numpy, Pandas, Matplotlib, Seaborn.
 
 All data used in this project is from the IEX Developer API platform loaded using `pandas-datareader`. The iexfinance provides real time fin-data from IEX endpoints, and historical time-series data. 
 
-This repository includes the `.ipynb` file with the code and the report. 
+This repository includes the `.ipynb` file with the code and the [report](https://nbviewer.org/github/WilliamKwanProgramming/stock-data-analysis-prediction/blob/main/stock-market-analysis.ipynb)
 
 Thank you!
 
