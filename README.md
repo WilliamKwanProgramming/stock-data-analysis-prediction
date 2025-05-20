@@ -8,3 +8,5 @@ All data used in this project is from the IEX Developer API platform loaded usin
 This repository includes the `.ipynb` file with the code and the report. 
 
 Thank you!
+
+This project was curated in Fall 2024. 
